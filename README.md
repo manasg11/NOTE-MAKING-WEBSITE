@@ -1,0 +1,3 @@
+# NOTE-MAKING-WEBSITE
+CREATED EASY NOTES NOTE MAKING WEBSITE
+https://notemakingmanasgoel.netlify.app : WEBSITE LINK
